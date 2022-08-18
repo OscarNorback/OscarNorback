@@ -1,5 +1,12 @@
-### Hi there 👋
+## Oscar Norbäck 
 
+I’m currently learning programing.
+
+I’m 17 yers.
+
+I like to play Valorant and EU4.
+ 
+ 
 <!--
 **OscarNorback/OscarNorback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
