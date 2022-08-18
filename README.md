@@ -2,7 +2,7 @@
 
 I’m currently learning programing.
 
-I’m 17 yers.
+I’m 17 years.
 
 I like to play Valorant and EU4.
  
