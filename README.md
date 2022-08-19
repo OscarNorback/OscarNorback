@@ -1,6 +1,6 @@
 ## Oscar Norbäck 
 
-I’m currently learning programing.
+I’m currently learning programming.
 
 I’m 17 years.
 
